@@ -253,35 +253,3 @@ daily_stock_analysis/
 非常欢迎在 README 或文档中注明来源并附上本仓库链接。
 这将有助于项目的持续维护和社区发展。
 
-## 📬 联系与合作
-- GitHub Issues：[提交 Issue](https://github.com/ZhuLinsen/daily_stock_analysis/issues)
-
-## ⭐ Star History
-
-<a href="https://star-history.com/#ZhuLinsen/daily_stock_analysis&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ZhuLinsen/daily_stock_analysis&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ZhuLinsen/daily_stock_analysis&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=ZhuLinsen/daily_stock_analysis&type=Date" />
- </picture>
-</a>
-
-## ⚠️ 免责声明
-
-本项目仅供学习和研究使用，不构成任何投资建议。股市有风险，投资需谨慎。作者不对使用本项目产生的任何损失负责。
-
----
-
-**如果觉得有用，请给个 ⭐ Star 支持一下！**
-
-<!-- 赞赏锚点 -->
-<a id="sponsor"></a>
-###### ☕ 请我喝杯咖啡
-- 如果觉得本项目对你有帮助且行有余力，可以请我喝杯咖啡，支持项目的持续维护与迭代；不赞赏也完全不影响使用。   
-<small>（赞赏时可备注联系方式，方便私信致谢与后续交流反馈）</small>
-- 感谢支持, 祝您股市长虹，拿主力当提款机。
-
-<div align="center">
-  <img src="./sources/wechatpay.jpg" alt="WeChat Pay" width="200" style="margin-right: 20px;">
-  <img src="./sources/alipay.jpg" alt="Alipay" width="200">
-</div>
